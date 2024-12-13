@@ -1,0 +1,4 @@
+Django>=3.0,<4.0
+djangorestframework>=3.11,<4.0
+psycopg2>=2.8,<3.0  # For PostgreSQL support (if you're using it)
+gunicorn>=20.0,<21.0  # For running your app in production
